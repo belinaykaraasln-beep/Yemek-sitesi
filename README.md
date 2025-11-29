@@ -23,6 +23,4 @@ Projeyi kullanmak için öncelikle GitHub reposunu bilgisayarınıza klonlayın:
 
 - HTML5  
 - CSS3  
-- Responsive tasarım  
-
-MIT License
+- Responsive tasarım 
